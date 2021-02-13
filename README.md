@@ -28,3 +28,6 @@ create schema desafio
 Alterar o nome de usuário e senha  nas seguintes linhas do arquivo application.properties:
 spring.datasource.username=postgres
 spring.datasource.password=manager
+
+Para rodar o front end:
+http://localhost:3000/#/login
